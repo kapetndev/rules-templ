@@ -1,0 +1,4 @@
+module(
+    name = "rules_templ",
+    version = "0.1.0",
+)
